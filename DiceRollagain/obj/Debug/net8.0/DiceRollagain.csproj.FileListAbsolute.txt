@@ -1,0 +1,14 @@
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\DiceRollagain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\DiceRollagain.AssemblyInfoInputs.cache
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\DiceRollagain.AssemblyInfo.cs
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\DiceRollagain.csproj.CoreCompileInputs.cache
+C:\Users\fbura\Desktop\DiceRollagain\bin\Debug\net8.0\DiceRollagain.exe
+C:\Users\fbura\Desktop\DiceRollagain\bin\Debug\net8.0\DiceRollagain.deps.json
+C:\Users\fbura\Desktop\DiceRollagain\bin\Debug\net8.0\DiceRollagain.runtimeconfig.json
+C:\Users\fbura\Desktop\DiceRollagain\bin\Debug\net8.0\DiceRollagain.dll
+C:\Users\fbura\Desktop\DiceRollagain\bin\Debug\net8.0\DiceRollagain.pdb
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\DiceRollagain.dll
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\refint\DiceRollagain.dll
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\DiceRollagain.pdb
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\DiceRollagain.genruntimeconfig.cache
+C:\Users\fbura\Desktop\DiceRollagain\obj\Debug\net8.0\ref\DiceRollagain.dll
